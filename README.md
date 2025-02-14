@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YASARIKOS
+- 👋 Hi, I’m me
 - 👀 I’m interested in defending my computer from viruses 
 - 🌱 I’m currently learning to defend my account
 - 💞️ I’m looking to collaborate on ...
